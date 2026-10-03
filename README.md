@@ -1,4 +1,4 @@
-# Sage: AI Study Chatbot (Day 2 + Day 3)
+# Sage: AI Study Chatbot
 
 A streaming chatbot with a defined role (beginner-friendly AI & Python tutor), built with
 **Streamlit**, the **Gemini API (`gemini-3.8-flash`)** and **Pydantic**.
